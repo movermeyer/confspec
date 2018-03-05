@@ -2,23 +2,23 @@
 confspec
 ========
 
-.. image:: https://pypip.in/py_versions/confspec/badge.png
+.. image:: https://img.shields.io/pypi/pyversions/confspec.svg
    :target: https://pypi.python.org/pypi/confspec/
    :alt: Supported Python versions
 
-.. image:: https://pypip.in/version/confspec/badge.png?text=version
+.. image:: https://img.shields.io/pypi/v/confspec.svg?label=version
    :target: https://pypi.python.org/pypi/confspec/
    :alt: Latest Version
 
-.. image:: https://pypip.in/download/confspec/badge.png
+.. image:: https://img.shields.io/pypi/dm/confspec.svg
    :target: https://pypi.python.org/pypi/confspec/
    :alt: Downloads
 
-.. image:: https://pypip.in/license/confspec/badge.png
+.. image:: https://img.shields.io/pypi/l/confspec.svg
    :target: https://pypi.python.org/pypi/confspec/
    :alt: License
 
-.. image:: https://pypip.in/status/confspec/badge.png
+.. image:: https://img.shields.io/pypi/status/confspec.svg
    :target: https://pypi.python.org/pypi/confspec/
    :alt: Status
 
